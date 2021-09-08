@@ -1,0 +1,6 @@
+{
+    "reportUnusedVariable": false,
+    "reportMissingImports": false,
+    "reportMissingModuleSource": false,
+    "reportWildcardImportFromLibrary": false
+}
