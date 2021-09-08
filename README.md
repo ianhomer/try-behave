@@ -1,2 +1,7 @@
 # try-behave
-Try Behave
+
+Try Behave.
+
+## tl;dr
+
+    pip3 install -r requirements.txt
